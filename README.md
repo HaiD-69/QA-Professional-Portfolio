@@ -1,6 +1,6 @@
 # 🧪 QA Manual Testing & Quality Assurance Portfolio
 
-¡Hola! Soy **Haider David Paniagua Bolívar**, **QA Engineer & Technical Operations Analyst** [🔗 LinkedIn](https://www.linkedin.com/in/haider-paniagua/) | [📧 Haiderpaniagua@gmail.com](mailto:Haiderpaniagua@gmail.com).
+¡Hola! Soy **Haider David Paniagua Bolívar**, **QA Engineer & Technical Operations Analyst** [🔗 LinkedIn](https://www.linkedin.com/in/haider-paniagua/) | [📧 Haidpab777@gmail.com](mailto:Haidpab777@gmail.com).
 
 Este repositorio está dedicado a demostrar mis habilidades prácticas en **Control de Calidad (QA) Manual**, diseño de pruebas, análisis de requisitos, documentación de casos de prueba, reporte de incidencias y validación de APIs.
 
@@ -45,4 +45,4 @@ En este espacio encontrarás evidencias concretas de mi trabajo metodológico en
 
 * **LinkedIn:** [haider-paniagua](https://www.linkedin.com/in/haider-paniagua/)
 * **GitHub:** [HaiD-69](https://github.com/HaiD-69)
-* **Correo Electrónico:** Haiderpaniagua@gmail.com
+* **Correo Electrónico:** Haidpab777@gmail.com
